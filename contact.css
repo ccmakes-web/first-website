@@ -153,12 +153,14 @@ ol.topnav li a {
 }
 
 .c-title {
+    display:block;
     padding-top: 1vh; padding-bottom: 1vh;
     padding-left: 10vw; padding-right: 10vw;
     margin-top: 5vh; margin-bottom: 5vh;
 }
 
 .contact {
+    display: inline-block;
     width: auto;
     height: 15vh;
     padding-left: 10vw; padding-right: 10vw;
